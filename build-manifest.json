@@ -1,0 +1,26 @@
+{
+	"projectName": "digitalplace-local",
+	"projectVersion": "1.0.0",
+	"liferayVersion": "7.2.10",
+	"liferayPatches": [
+		{
+			"name": "liferay-fix-pack-dxp-4-7210"
+		}
+	],
+	"artefactCollection": [
+		{
+			"groupId": "com.placecube.nhs",
+			"artefacts": [
+				{
+					"artifactId": "com.placecube.nhs.language",
+					"version": "1.0.0"
+				},
+				{
+					"artifactId": "nhs-theme",
+					"type": "war",
+					"version": "1.0.0"
+				}
+			]
+		}
+	]
+}
