@@ -9,16 +9,70 @@
 	],
 	"artefactCollection": [
 		{
+			"groupId": "com.pfiks.expando",
+			"artefacts": [
+				{
+					"artifactId": "com.pfiks.expando.api",
+					"version": "2.0.0"
+				},
+				{
+					"artifactId": "com.pfiks.expando.service",
+					"version": "2.0.0"
+				}
+			]
+		},
+		{
+			"groupId": "com.pfiks.journal",
+			"artefacts": [
+				{
+					"artifactId": "com.pfiks.journalcontent.renderer.web",
+					"version": "2.0.0"
+				}
+			]
+		},
+		{
 			"groupId": "com.placecube.nhs",
 			"artefacts": [
+				{
+					"artifactId": "com.placecube.nhs.communitylisting.web",
+					"version": "1.1.0"
+				},
+				{
+					"artifactId": "com.placecube.nhs.fragmentcollection",
+					"version": "1.0.0"
+				},
+				{
+					"artifactId": "com.placecube.nhs.grouptypes",
+					"version": "1.0.0"
+				},
+				{
+					"artifactId": "com.placecube.nhs.indexer.group",
+					"version": "1.0.0"
+				},
 				{
 					"artifactId": "com.placecube.nhs.language",
 					"version": "1.0.0"
 				},
 				{
+					"artifactId": "com.placecube.nhs.search.utils",
+					"version": "1.0.0"
+				},
+				{
+					"artifactId": "com.placecube.nhs.taglib.az",
+					"version": "1.0.0"
+				},
+				{
+					"artifactId": "com.placecube.nhs.webcontent.listing.web",
+					"version": "1.0.0"
+				},
+				{
+					"artifactId": "com.placecube.nhs.webcontent.structures",
+					"version": "1.0.0"
+				},
+				{
 					"artifactId": "nhs-theme",
 					"type": "war",
-					"version": "1.0.0"
+					"version": "1.2.0"
 				}
 			]
 		}
