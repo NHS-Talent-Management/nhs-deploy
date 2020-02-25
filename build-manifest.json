@@ -72,7 +72,7 @@
 				},
 				{
 					"artifactId": "com.placecube.nhs.registration.web",
-					"version": "1.1.0"
+					"version": "1.1.2"
 				},
 				{
 					"artifactId": "com.placecube.nhs.search.utils",
@@ -101,7 +101,7 @@
 				{
 					"artifactId": "nhs-theme",
 					"type": "war",
-					"version": "1.6.0"
+					"version": "1.6.1"
 				}
 			]
 		}
