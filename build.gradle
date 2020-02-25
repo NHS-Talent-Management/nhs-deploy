@@ -18,7 +18,7 @@ buildscript {
 	}
 
 	dependencies {
-		classpath group: "com.pfiks.gradle.plugin", name: "LiferayDeployerPlugin", version: "1.2.1"
+		classpath group: "com.pfiks.gradle.plugin", name: "LiferayDeployerPlugin", version: "1.2.3"
 	}
 
 }
