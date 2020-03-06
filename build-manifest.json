@@ -48,7 +48,7 @@
 			"artefacts": [
 				{
 					"artifactId": "com.placecube.nhs.communitylisting.web",
-					"version": "1.5.0"
+					"version": "1.6.0"
 				},
 				{
 					"artifactId": "com.placecube.nhs.fragmentcollection",
@@ -56,7 +56,7 @@
 				},
 				{
 					"artifactId": "com.placecube.nhs.grouptypes",
-					"version": "1.0.3"
+					"version": "1.1.0"
 				},
 				{
 					"artifactId": "com.placecube.nhs.indexer.group",
@@ -76,7 +76,7 @@
 				},
 				{
 					"artifactId": "com.placecube.nhs.readiness.service",
-					"version": "1.0.0"
+					"version": "1.0.1"
 				},
 				{
 					"artifactId": "com.placecube.nhs.readiness.web",
@@ -84,18 +84,14 @@
 				},
 				{
 					"artifactId": "com.placecube.nhs.registration.web",
-					"version": "1.1.3"
+					"version": "1.1.5"
 				},
 				{
 					"artifactId": "com.placecube.nhs.search.utils",
 					"version": "2.0.0"
 				},
 				{
-					"artifactId": "com.placecube.nhs.taglib.az",
-					"version": "1.0.0"
-				},
-				{
-					"artifactId": "com.placecube.nhs.taglib.forms",
+					"artifactId": "com.placecube.nhs.taglibs",
 					"version": "1.1.0"
 				},
 				{
@@ -108,11 +104,19 @@
 				},
 				{
 					"artifactId": "com.placecube.nhs.user.profile.web",
+					"version": "1.2.0"
+				},
+				{
+					"artifactId": "com.placecube.nhs.userprofile.api",
+					"version": "1.0.0"
+				},
+				{
+					"artifactId": "com.placecube.nhs.userprofile.service",
 					"version": "1.0.0"
 				},
 				{
 					"artifactId": "com.placecube.nhs.webcontent.listing.web",
-					"version": "1.4.0"
+					"version": "1.4.1"
 				},
 				{
 					"artifactId": "com.placecube.nhs.webcontent.structures",
@@ -121,7 +125,7 @@
 				{
 					"artifactId": "nhs-theme",
 					"type": "war",
-					"version": "1.9.1"
+					"version": "1.9.2"
 				}
 			]
 		},
@@ -130,11 +134,11 @@
 			"artefacts": [
 				{
 					"artifactId": "nhs-headless-user-readiness-api",
-					"version": "1.0.0"
+					"version": "1.0.1"
 				},
 				{
 					"artifactId": "nhs-headless-user-readiness-impl",
-					"version": "1.0.0"
+					"version": "1.0.1"
 				}
 			]
 		}
