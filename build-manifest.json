@@ -48,7 +48,7 @@
 			"artefacts": [
 				{
 					"artifactId": "com.placecube.nhs.communitylisting.web",
-					"version": "1.6.0"
+					"version": "1.6.1"
 				},
 				{
 					"artifactId": "com.placecube.nhs.fragmentcollection",
@@ -80,7 +80,7 @@
 				},
 				{
 					"artifactId": "com.placecube.nhs.readiness.web",
-					"version": "1.0.0"
+					"version": "1.0.1"
 				},
 				{
 					"artifactId": "com.placecube.nhs.registration.web",
@@ -104,15 +104,15 @@
 				},
 				{
 					"artifactId": "com.placecube.nhs.user.profile.web",
-					"version": "1.2.0"
+					"version": "1.2.1"
 				},
 				{
 					"artifactId": "com.placecube.nhs.userprofile.api",
-					"version": "1.0.0"
+					"version": "1.1.0"
 				},
 				{
 					"artifactId": "com.placecube.nhs.userprofile.service",
-					"version": "1.0.0"
+					"version": "1.1.0"
 				},
 				{
 					"artifactId": "com.placecube.nhs.webcontent.listing.web",
