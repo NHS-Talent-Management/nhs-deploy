@@ -80,7 +80,7 @@
 				},
 				{
 					"artifactId": "com.placecube.nhs.readiness.web",
-					"version": "1.0.2"
+					"version": "1.0.3"
 				},
 				{
 					"artifactId": "com.placecube.nhs.registration.web",
