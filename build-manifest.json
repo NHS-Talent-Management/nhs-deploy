@@ -34,6 +34,14 @@
 			"groupId": "com.placecube.digitalplace",
 			"artefacts": [
 				{
+					"artifactId": "com.placecube.digitalplace.initializer.api",
+					"version": "4.5.1"
+				},
+				{
+					"artifactId": "com.placecube.digitalplace.initializer.service",
+					"version": "4.5.0"
+				},
+				{
 					"artifactId": "com.placecube.digitalplace.journal.api",
 					"version": "1.3.0"
 				},
@@ -68,6 +76,10 @@
 				},
 				{
 					"artifactId": "com.placecube.nhs.language",
+					"version": "1.0.0"
+				},
+				{
+					"artifactId": "com.placecube.nhs.navigationmenu",
 					"version": "1.0.0"
 				},
 				{
@@ -129,7 +141,7 @@
 				{
 					"artifactId": "nhs-theme",
 					"type": "war",
-					"version": "1.10.0"
+					"version": "1.11.0"
 				}
 			]
 		},
