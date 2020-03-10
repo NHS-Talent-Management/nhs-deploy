@@ -47,6 +47,10 @@
 			"groupId": "com.placecube.nhs",
 			"artefacts": [
 				{
+					"artifactId": "com.placecube.nhs.assetpublisher.provider",
+					"version": "1.0.0"
+				},
+				{
 					"artifactId": "com.placecube.nhs.communitylisting.web",
 					"version": "1.6.2"
 				},
@@ -125,7 +129,7 @@
 				{
 					"artifactId": "nhs-theme",
 					"type": "war",
-					"version": "1.9.2"
+					"version": "1.10.0"
 				}
 			]
 		},
