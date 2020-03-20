@@ -25,11 +25,11 @@
 			"groupId": "com.pfiks.mail",
 			"artefacts": [
 				{
-					"artifactId": "mail-api",
+					"artifactId": "com.pfiks.mail.api",
 					"version": "2.0.0"
 				},
 				{
-					"artifactId": "mail-service",
+					"artifactId": "com.pfiks.mail.service",
 					"version": "2.0.0"
 				}
 			]
@@ -101,7 +101,7 @@
 				},
 				{
 					"artifactId": "com.placecube.nhs.notification.service",
-					"version": "2.0.0"
+					"version": "2.0.1"
 				},
 				{
 					"artifactId": "com.placecube.nhs.override.facebooklogin.jsp",
