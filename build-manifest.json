@@ -169,7 +169,7 @@
 				},
 				{
 					"artifactId": "com.placecube.nhs.userprivacy.service",
-					"version": "2.0.0"
+					"version": "2.0.1"
 				},
 				{
 					"artifactId": "com.placecube.nhs.userprofile.api",
