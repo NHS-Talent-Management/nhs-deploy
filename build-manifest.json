@@ -89,7 +89,7 @@
 				},
 				{
 					"artifactId": "com.placecube.nhs.language",
-					"version": "1.0.0"
+					"version": "1.0.1"
 				},
 				{
 					"artifactId": "com.placecube.nhs.navigationmenu",
@@ -102,6 +102,10 @@
 				{
 					"artifactId": "com.placecube.nhs.notification.service",
 					"version": "2.0.1"
+				},
+				{
+					"artifactId": "com.placecube.nhs.override.commenttaglib.jsp",
+					"version": "1.0.0"
 				},
 				{
 					"artifactId": "com.placecube.nhs.override.facebooklogin.jsp",
@@ -133,11 +137,11 @@
 				},
 				{
 					"artifactId": "com.placecube.nhs.taglibs",
-					"version": "1.5.1"
+					"version": "1.6.0"
 				},
 				{
 					"artifactId": "com.placecube.nhs.talentdashboard.web",
-					"version": "1.3.2"
+					"version": "1.3.4"
 				},
 				{
 					"artifactId": "com.placecube.nhs.talentsearch.api",
@@ -190,7 +194,7 @@
 				{
 					"artifactId": "nhs-theme",
 					"type": "war",
-					"version": "1.13.2"
+					"version": "1.13.3"
 				}
 			]
 		},
