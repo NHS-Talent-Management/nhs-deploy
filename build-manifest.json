@@ -73,7 +73,7 @@
 				},
 				{
 					"artifactId": "com.placecube.nhs.communitylisting.web",
-					"version": "1.6.3"
+					"version": "1.6.4"
 				},
 				{
 					"artifactId": "com.placecube.nhs.fragmentcollection",
