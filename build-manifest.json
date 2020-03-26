@@ -136,6 +136,10 @@
 					"version": "2.0.1"
 				},
 				{
+					"artifactId": "com.placecube.nhs.setup",
+					"version": "1.0.0"
+				},
+				{
 					"artifactId": "com.placecube.nhs.taglibs",
 					"version": "1.6.0"
 				},
@@ -194,7 +198,7 @@
 				{
 					"artifactId": "nhs-theme",
 					"type": "war",
-					"version": "1.13.3"
+					"version": "1.14.0"
 				}
 			]
 		},
