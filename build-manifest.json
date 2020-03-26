@@ -73,7 +73,7 @@
 				},
 				{
 					"artifactId": "com.placecube.nhs.communitylisting.web",
-					"version": "1.6.4"
+					"version": "1.6.5"
 				},
 				{
 					"artifactId": "com.placecube.nhs.fragmentcollection",
@@ -125,7 +125,7 @@
 				},
 				{
 					"artifactId": "com.placecube.nhs.readiness.web",
-					"version": "1.0.7"
+					"version": "1.0.9"
 				},
 				{
 					"artifactId": "com.placecube.nhs.registration.web",
@@ -137,7 +137,7 @@
 				},
 				{
 					"artifactId": "com.placecube.nhs.setup",
-					"version": "1.0.0"
+					"version": "1.0.1"
 				},
 				{
 					"artifactId": "com.placecube.nhs.taglibs",
@@ -165,11 +165,11 @@
 				},
 				{
 					"artifactId": "com.placecube.nhs.user.profile.web",
-					"version": "1.2.4"
+					"version": "1.2.7"
 				},
 				{
 					"artifactId": "com.placecube.nhs.user.settings.web",
-					"version": "1.1.2"
+					"version": "1.1.3"
 				},
 				{
 					"artifactId": "com.placecube.nhs.userprivacy.api",
@@ -181,11 +181,11 @@
 				},
 				{
 					"artifactId": "com.placecube.nhs.userprofile.api",
-					"version": "1.1.1"
+					"version": "2.0.0"
 				},
 				{
 					"artifactId": "com.placecube.nhs.userprofile.service",
-					"version": "1.1.1"
+					"version": "2.0.0"
 				},
 				{
 					"artifactId": "com.placecube.nhs.webcontent.listing.web",
@@ -198,7 +198,7 @@
 				{
 					"artifactId": "nhs-theme",
 					"type": "war",
-					"version": "1.14.0"
+					"version": "1.15.0"
 				}
 			]
 		},
